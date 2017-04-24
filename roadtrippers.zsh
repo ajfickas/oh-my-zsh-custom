@@ -43,9 +43,9 @@ google () {
   fi
   open "https://www.google.com/search?q=$1"
 }
-alias github='open https://github.com/roadtrippers/roadtrippers'
-alias myissues='open https://github.com/roadtrippers/roadtrippers/issues?q=is%3Aopen+assignee%3Aajfickas'
-alias mypulls='open https://github.com/roadtrippers/roadtrippers/pulls/ajfickas'
+alias rtgh='open https://github.com/roadtrippers'
+alias rtissues='open https://github.com/roadtrippers/roadtrippers/issues?q=is%3Aopen+assignee%3Aajfickas'
+alias rtpulls='open https://github.com/roadtrippers/roadtrippers/pulls/ajfickas'
 alias react='open https://facebook.github.io/react/docs/getting-started.html'
 alias rtdev='open http://roadtrippers.dev:3000'
 alias rtdevjasmine='open http://roadtrippers.dev:3000/specs'
